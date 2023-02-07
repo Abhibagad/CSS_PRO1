@@ -1,0 +1,93 @@
+.body{
+    background-color: rgb(2, 20, 2);
+    
+    height: 480px;
+}
+
+.first{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(134, 232, 232);
+
+}
+
+.html{
+    padding-top: 25px;
+    margin-left: 200px;
+    display: inline-block;
+}
+
+.css{
+    padding-top: 25px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.react{
+    padding-top: 25px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.serch{
+
+}
+
+.sign1{
+
+}
+
+.sign2{
+
+}
+
+.sign3{
+
+}
+
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+    height: 250px;
+    width: 49%;
+    background-color:rgb(134, 232, 232); 
+    
+}
+.box1:hover{
+    background-color: red;
+}
+.box2{
+    background-color:rgb(134, 232, 232); 
+    height: 250px;
+    width: 49%;
+    margin-left: 20px;
+}
+.box2:hover{
+    background-color: red;
+}
+
+.head{
+    text-align: center;
+    font-style: italic;
+}
+.para{
+    font-style: italic;
+}
+
+.bottom{
+    height: 100px;
+    width: 100%;
+    background-color:rgb(134, 232, 232); 
+}
+.last{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+
+
